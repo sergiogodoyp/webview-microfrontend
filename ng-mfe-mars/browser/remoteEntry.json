@@ -1,0 +1,179 @@
+{
+  "name": "mars",
+  "shared": [
+    {
+      "packageName": "@angular/animations",
+      "outFileName": "_angular_animations.U_aFswsXH0.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/animations/browser",
+      "outFileName": "_angular_animations_browser.RS2DGQ6zpv.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/common",
+      "outFileName": "_angular_common.D-J4z7QcG3.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/common/http",
+      "outFileName": "_angular_common_http.LBa6eRHia6.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/compiler",
+      "outFileName": "_angular_compiler.jpj2wApv5K.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core",
+      "outFileName": "_angular_core.xIhKMR54nV.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/event-dispatch-contract.min.js",
+      "outFileName": "_angular_core_event_dispatch_contract_min_js.nEVCUBit7n.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/primitives/event-dispatch",
+      "outFileName": "_angular_core_primitives_event_dispatch.lTtiOGi3nE.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/primitives/signals",
+      "outFileName": "_angular_core_primitives_signals.hGLHx6gT1N.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/core/rxjs-interop",
+      "outFileName": "_angular_core_rxjs_interop.b_nvMTdoSM.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/elements",
+      "outFileName": "_angular_elements.LTuOqwVX0a.js",
+      "requiredVersion": "^18.2.13",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/forms",
+      "outFileName": "_angular_forms.QtcnY64xa6.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-browser",
+      "outFileName": "_angular_platform_browser.CMeg6a9YS3.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-browser/animations",
+      "outFileName": "_angular_platform_browser_animations.ji6wum6DLx.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-browser/animations/async",
+      "outFileName": "_angular_platform_browser_animations_async.njNhKkdD7N.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/platform-browser-dynamic",
+      "outFileName": "_angular_platform_browser_dynamic.93JpCLV2xI.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router.C6zkcDrGKz.js",
+      "requiredVersion": "^18.2.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "18.2.13"
+    },
+    {
+      "packageName": "@bcp/ng-micro-frontends",
+      "outFileName": "_bcp_ng_micro_frontends.stzGNsDSyX.js",
+      "requiredVersion": "^5.0.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "5.0.0"
+    },
+    {
+      "packageName": "rxjs",
+      "outFileName": "rxjs.k-emUXyREd.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "7.8.2"
+    },
+    {
+      "packageName": "rxjs/operators",
+      "outFileName": "rxjs_operators.E_l5ZzFzso.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "7.8.2"
+    },
+    {
+      "packageName": "tslib",
+      "outFileName": "tslib.cDqGpVXb6X.js",
+      "requiredVersion": "^2.3.0",
+      "singleton": false,
+      "strictVersion": false,
+      "version": "2.8.1"
+    }
+  ],
+  "exposes": [
+    {
+      "key": "./web-components",
+      "outFileName": "web-components-F5JKLS3D.js"
+    }
+  ]
+}

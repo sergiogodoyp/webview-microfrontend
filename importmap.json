@@ -1,0 +1,25 @@
+{
+  "imports": {
+    "@angular/animations": "_angular_animations.0gl8pXtRnw.js",
+    "@angular/animations/browser": "_angular_animations_browser.Hf5G7yu_4n.js",
+    "@angular/common": "_angular_common.bEnlvhyiY8.js",
+    "@angular/common/http": "_angular_common_http.Z7-aLtopmG.js",
+    "@angular/compiler": "_angular_compiler.sh1-aY4aOo.js",
+    "@angular/core": "_angular_core.sRh6hv3rW7.js",
+    "@angular/core/event-dispatch-contract.min.js": "_angular_core_event_dispatch_contract_min_js.FMhHAq8Uy2.js",
+    "@angular/core/primitives/event-dispatch": "_angular_core_primitives_event_dispatch.jPpBCcbGQc.js",
+    "@angular/core/primitives/signals": "_angular_core_primitives_signals.t4GHn4AWDs.js",
+    "@angular/core/rxjs-interop": "_angular_core_rxjs_interop.ZXaqRM6inm.js",
+    "@angular/elements": "_angular_elements.QDh7mGHQ3x.js",
+    "@angular/forms": "_angular_forms.a6pyY03mbF.js",
+    "@angular/platform-browser": "_angular_platform_browser.2PpbziJtnE.js",
+    "@angular/platform-browser/animations": "_angular_platform_browser_animations.gFzbrSZUDp.js",
+    "@angular/platform-browser/animations/async": "_angular_platform_browser_animations_async.1YUYQwuexL.js",
+    "@angular/platform-browser-dynamic": "_angular_platform_browser_dynamic.0HfkxGFk3p.js",
+    "@angular/router": "_angular_router.4DLUYd-Rvq.js",
+    "@bcp/ng-micro-frontends": "_bcp_ng_micro_frontends.MMbo44xh19.js",
+    "rxjs": "rxjs.R046fUaffT.js",
+    "rxjs/operators": "rxjs_operators.NhOdwH36co.js",
+    "tslib": "tslib.BNSguIhySC.js"
+  }
+}
